@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lab_driving)(type Legacy)(uri ${KIPRJMOD}/lab_driving.lib)(options "")(descr ""))
+  (lib (name OPA551)(type Legacy)(uri ${KIPRJMOD}/OPA551.lib)(options "")(descr ""))
+  (lib (name OPA462)(type Legacy)(uri ${KIPRJMOD}/OPA462.lib)(options "")(descr ""))
+)
